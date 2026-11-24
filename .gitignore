@@ -1,0 +1,10 @@
+.env
+.env.backup
+/vendor
+/uploads
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
